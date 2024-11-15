@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+umap-learn
+seaborn
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+ipykernel
